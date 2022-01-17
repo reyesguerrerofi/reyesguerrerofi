@@ -1,7 +1,8 @@
 ## Hola a todos!!!
 
-<!--
-**reyesguerrerofi/reyesguerrerofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<a href="https://www.linkedin.com/in/antonio-arg/">
+  <img align="left" alt="Antonio's Linkedin" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ### Languages
 
