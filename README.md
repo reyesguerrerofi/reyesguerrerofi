@@ -1,7 +1,7 @@
 ## Hola a todos!!!
 
 <a href="https://www.linkedin.com/in/antonio-arg/">
-  <img align="left" alt="Antonio's Linkedin" width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Antonio's Linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 ### Languages
