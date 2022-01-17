@@ -1,8 +1,5 @@
 ## Hola a todos!!!
-
-<a href="https://www.linkedin.com/in/antonio-arg/">
-  <img align="left" alt="Antonio's Linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-arg/)
 
 ### Languages
 
@@ -16,3 +13,5 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
+Antonio's Linkedin
