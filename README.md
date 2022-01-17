@@ -19,9 +19,8 @@
 
 ### Technologies
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 Antonio's Linkedin
